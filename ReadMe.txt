@@ -1,3 +1,5 @@
+Deployed the model for Breast Cancer detection. Developed the model using Backpropagation Neural Network and compared the results with Radial Basis Function Network, Support Vector Machine & Decision Tree (implemented in Python)
+
 > Language Used : Python
 
 > Libraries Used : csv,  numpy,  matplotlib, sklearn, pandas, time.
